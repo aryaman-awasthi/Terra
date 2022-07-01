@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Terra</string>
+    <string name="sup">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Log In</string>
+    <string name="login_txt">Welcome back you\'ve been missed!</string>
+    <string name="sup_pre_text">Don\'t have an account?</string>
+    <string name="sup_screen_text">Hello there, create an account with Terra it\'s free!</string>
+    <string name="sample_name" translatable="false">Jon Doe</string>
+    <string name="sample_phn">7007004000</string>
+    <string name="name">Name</string>
+    <string name="phn">Phone Number</string>
+    <string name="get_verification_code">Get Verification Code</string>
+    <string name="create_account">Create account</string>
+    <string name="full_address">Full Address</string>
+    <string name="sample_address">805 Krishna Nagar, Lucknow</string>
+    <string name="pincode">208007</string>
+    <string name="sample_pincode">Pincode</string>
+    <string name="submit">Submit</string>
+    <string name="verify_account">Verify Account</string>
+    <string name="validationText">Just a small step enter the validation code we sent to your registered mobile number!</string>
+    <string name="sample_validation_code">500106</string>
+    <string name="sign_in_text">Welcome back, enter your phone number to continue!</string>
+</resources>
