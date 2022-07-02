@@ -10,9 +10,12 @@
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_dashboard.xml" value="0.27355072463768115" />
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_main.xml" value="0.3625" />
-        <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_sign_up.xml" value="0.39167135621834553" />
+        <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/activity_verification.xml" value="0.33" />
+        <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/err_snackbar.xml" value="0.5" />
+        <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/loading_message_layout.xml" value="0.22" />
+        <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/layout/success_popup_message.xml" value="0.18541666666666667" />
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Work/Apps/Terra/Terra_App_Code/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2" />
       </map>

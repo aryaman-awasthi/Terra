@@ -70,7 +70,7 @@
                 android:textColor="@color/textSecondary" />
 
             <EditText
-                android:id="@+id/name_sup"
+                android:id="@+id/nameEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:autofillHints="name"
@@ -94,7 +94,7 @@
                 android:textColor="@color/textSecondary" />
 
             <EditText
-                android:id="@+id/phone_sup"
+                android:id="@+id/phoneEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:autofillHints="phone"
@@ -120,7 +120,7 @@
                 android:textColor="@color/textSecondary" />
 
             <EditText
-                android:id="@+id/address"
+                android:id="@+id/addressEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@drawable/edittextbg"
@@ -145,7 +145,7 @@
                 android:textColor="@color/textSecondary" />
 
             <EditText
-                android:id="@+id/zipcode"
+                android:id="@+id/zipcodeEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:autofillHints="phone"

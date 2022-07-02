@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".VerificationActivity"
-    android:background="@color/background">
+    tools:context=".VerifyUserActivity"
+    android:background="@color/background"
+    android:id="@+id/verificationLayout">
 
     <LinearLayout
         android:layout_marginTop="30sp"
@@ -59,7 +60,7 @@
 
 
             <EditText
-                android:id="@+id/validationCode"
+                android:id="@+id/validationCodeEditText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="50sp"
@@ -80,21 +81,20 @@
 
             <!--Submit Button-->
             <Button
-                android:id="@+id/sin_lS"
+                android:id="@+id/verifyButton"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20sp"
                 android:background="@drawable/buttonbg"
                 android:drawableEnd="@drawable/rightarrow"
                 android:fontFamily="@font/ibmplexsansmedium"
-                android:gravity="left"
-                android:onClick="checkValidity"
+                android:gravity="start"
                 android:padding="20sp"
-                android:text="@string/submit"
+                android:text="@string/verify"
                 android:textAllCaps="false"
                 android:textColor="@color/primaryOpposite"
                 android:textSize="20sp"
-                tools:ignore="UsingOnClickInXml" />
+                />
 
 
             <LinearLayout

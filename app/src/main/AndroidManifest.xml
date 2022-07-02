@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Terra"
         tools:targetApi="31">
         <activity
-            android:name=".VerificationActivity"
+            android:name=".VerifyUserActivity"
             android:exported="false" />
         <activity
             android:name=".DashboardActivity"

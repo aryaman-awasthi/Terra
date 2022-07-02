@@ -8,7 +8,7 @@
     <color name="background_secondary">#232323</color>
 
 
-    <color name="accent_primary">#f60</color>
+    <color name="accent_primary">#1F80FF</color>
     <color name="accent_secondary">#1F80FF</color>
 
     <color name="editTextColorOnFocus">#000000</color>

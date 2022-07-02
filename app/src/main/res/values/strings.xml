@@ -21,4 +21,9 @@
     <string name="validationText">Just a small step enter the validation code we sent to your registered mobile number!</string>
     <string name="sample_validation_code">500106</string>
     <string name="sign_in_text">Welcome back, enter your phone number to continue!</string>
+    <string name="phone_no_regex">^(\\+91[\\-\\s]?)?[0]?(91)?[789]\\d{9}$</string>
+    <string name="verify">verify</string>
+    <string name="loading">Loading, please wait!</string>
+    <string name="wrong_details">Sorry wrong details</string>
+    <string name="account_creation_text">lol</string>
 </resources>
